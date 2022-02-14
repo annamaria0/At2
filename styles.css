@@ -1,8 +1,6 @@
-html, body {
+html {
   background: rgb(136, 45, 42);
-  width: 100%;
-  height: 100%;
-  font-family: sans-serif;
+  
 }
 #tudo{
   width: 960px;
