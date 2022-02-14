@@ -1,32 +1,30 @@
 html {
-  background: rgb(136, 45, 42);
-  
+  background: rgb(115, 117, 136);
 }
-#tudo{
+#tudo {
   width: 960px;
   height: 100%;
   margin: 0 auto;
 }
-#cabecario{
+nav {
   height: 10%;
   width: 100%;
   background-color: black;
-  box-shadow: 3px 4px 8px rgba(0, 0, 0, 5); 
+  box-shadow: 3px 4px 8px rgba(0, 0, 0, 5);
+
+  
+
 }
-#menu{
-  width: 50%;
-  height: 100%;
-  float: right;
-}
-#menu table{
-  margin:0 auto;
+
+#menu table {
+  margin: 0 auto;
   margin-right: 5px;
   height: 100%;
 }
-#menu table td{
+#menu table td {
   padding: 10px;
 }
-#menu a{
+nav a {
   text-decoration: nome;
   color: white;
 }
