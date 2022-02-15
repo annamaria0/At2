@@ -82,7 +82,7 @@ ul {
   padding: 18px 8%;
 }
 li {
-  float: left;
+  float: inline-end;
 }
 li a {
   color: rgb(167, 162, 168);
