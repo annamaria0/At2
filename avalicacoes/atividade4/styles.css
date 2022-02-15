@@ -75,20 +75,27 @@ footer a {
   border-radius: 5px;
   margin-bottom: 0 15px 15px 0;
 }
-ul {
+.im ul {
   width: 100%;
   float: left;
-  background-color: #111;
+  background-color: rgb(17, 17, 17);
   padding: 18px 8%;
 }
-li {
+.im li {
   float: left;
 }
-li a {
+.im li a {
   color: rgb(167, 162, 168);
   margin-right: 25px;
   text-decoration: none;
 }
-li a:hover {
+.im li a:hover {
   color: rgb(245, 4, 125);
+}
+.cont li,a{
+  width: 50%;
+  align-items: center;
+}
+.cont iframe{
+  float: right;
 }
