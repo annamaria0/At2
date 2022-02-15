@@ -2,7 +2,6 @@
   margin:0;
   padding: 0;
   font-size: 100%;
-  font-family: ;
   box-sizing: border-box;
   border: none;
   outline: none;
@@ -52,5 +51,7 @@ footer p{
 footer a{
   color: fff;
   text-decoration: none;
+  
+
 }
 
