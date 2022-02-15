@@ -1,4 +1,22 @@
-
+*{
+  margin:0;
+  padding: 0;
+  font-size: 100%;
+  font-family: ;
+  box-sizing: border-box;
+  border: none;
+  outline: none;
+}
+header{
+  width: 100%;
+  float: left;
+  padding:50px 8%;
+  background-color: aquamarine;
+}
+header h1{
+  width: 50%;
+  float: left;
+}
 .menu{
   width: 100%;
   float: left;
