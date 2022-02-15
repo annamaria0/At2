@@ -55,23 +55,40 @@ footer a {
   float: left;
   padding: 20px 8%;
 }
-.im1 {
+.im {
   width: 100%;
   float: left;
   padding: 0 20px 20px 0;
 }
-.im1 p {
+.im p {
   text-align: justify;
 }
-.im1 img {
+.im img {
   width: 50%;
   float: left;
   border-radius: 5px;
   margin-bottom: 0 15px 15px 0;
 }
-.im1 .im2{
+.im .im2 {
   width: 50%;
   float: right;
   border-radius: 5px;
   margin-bottom: 0 15px 15px 0;
+}
+ul {
+  width: 100%;
+  float: left;
+  background-color: #111;
+  padding: 18px 8%;
+}
+li {
+  float: left;
+}
+li a {
+  color: rgb(167, 162, 168);
+  margin-right: 25px;
+  text-decoration: none;
+}
+li a:hover {
+  color: rgb(245, 4, 125);
 }
