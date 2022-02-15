@@ -99,3 +99,15 @@ footer a {
 .cont iframe{
   float: right;
 }
+#tab{
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+}
+
+#tab th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
