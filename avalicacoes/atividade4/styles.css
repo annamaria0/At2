@@ -1,57 +1,77 @@
-*{
-  margin:0;
+* {
+  margin: 0;
   padding: 0;
   font-size: 100%;
   box-sizing: border-box;
   border: none;
   outline: none;
 }
-header{
+header {
   width: 100%;
   float: left;
-  padding:30px 8%;
+  padding: 30px 8%;
   background-color: rgb(255, 127, 202);
 }
-.menu{
+.menu {
   width: 100%;
   float: left;
   background-color: #111;
   padding: 18px 8%;
-
 }
-.menu li{
+.menu li {
   float: left;
 }
-.menu li a{
+.menu li a {
   color: rgb(167, 162, 168);
-  margin-right: 25px ;
+  margin-right: 25px;
   text-decoration: none;
 }
-.menu li a:hover{
+.menu li a:hover {
   color: rgb(245, 4, 125);
 }
-main{
+main {
   width: 100%;
   float: left;
   padding: 20px 8%;
 }
-main p{
-  margin-bottom: 5%
-  ;
+main p {
+  margin-bottom: 5%;
 }
-footer{
+footer {
   width: 100%;
   float: left;
   background-color: rgb(255, 127, 202);
-  padding: 20px 8% ;
+  padding: 20px 8%;
 }
-footer p{
+footer p {
   color: fff;
 }
-footer a{
+footer a {
   color: fff;
   text-decoration: none;
-  
-
 }
-
+.arte {
+  width: 100%;
+  float: left;
+  padding: 20px 8%;
+}
+.im1 {
+  width: 100%;
+  float: left;
+  padding: 0 20px 20px 0;
+}
+.im1 p {
+  text-align: justify;
+}
+.im1 img {
+  width: 50%;
+  float: left;
+  border-radius: 5px;
+  margin-bottom: 0 15px 15px 0;
+}
+.im1 .im2{
+  width: 50%;
+  float: right;
+  border-radius: 5px;
+  margin-bottom: 0 15px 15px 0;
+}
